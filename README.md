@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Jerry
 
+[![Profile View Badge](https://komarev.com/ghpvc/?username=jerry871002&style=for-the-badge&color=blue)]()
+
 ## 🧑‍💻 About Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerry871002@gmail.com)
