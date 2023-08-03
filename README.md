@@ -85,7 +85,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jerry871002)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry871002&layout=compact&exclude_repo=CSE201-project,jerry871002.github.io,1214-ece-course)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry871002&layout=compact&exclude_repo=CSE201-project,jerry871002.github.io,1214-ece-course,nfc-ticket-app)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jerry871002/jerry871002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
