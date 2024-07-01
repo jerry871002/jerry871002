@@ -14,70 +14,113 @@
 
 ## 🛠️ Languages and Tools
 
-### Programming Languages
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-</div>
-
-### Backend Development
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/denojs/denojs-original.svg" alt="denojs" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="30" height="30"/>
-</div>
-
-### Devops
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" alt="vagrant" width="30" height="30"/>
-</div>
-
-### Fronend Development
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
-  <img src="https://astro.build/assets/press/astro-icon-dark.svg" alt="astrojs" width="30" height="30"/>
-</div>
-
-### Framework and Library
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="qt" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="opencv" width="30" height="30"/>
-</div>
-
-### Database
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/>
-<div>
-
-### Misc
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="30" height="30"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/>
-</div>
+<table>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td><strong>Web Development</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="30" height="30"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
+      </div>
+    </td>
+    <td>
+      Backend
+      <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="30" height="30"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="30" height="30"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/denojs/denojs-original.svg" alt="denojs" width="30" height="30"/>
+      </div>
+      Frontend
+      <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" width="30" height="30"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="30" height="30"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="30" height="30"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="30" height="30"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-plain.svg" alt="astrojs" width="30" height="30"/>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>DevOps and Infrastructure</strong></td>
+    <td><strong>Cloud Platforms</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s" width="30" height="30"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" alt="vagrant" width="30" height="30"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="30" height="30"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="terraform" width="30" height="30"/>
+      </div>
+    </td>
+    <td>
+      <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="30" height="30"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="30" height="30"/>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data Science and Machine Learning</strong></td>
+    <td><strong>Desktop Development</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="30" height="30"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="30" height="30"/>
+      </div>
+    </td>
+    <td>
+      <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="qt" width="30" height="30"/>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Computer Vision</strong></td>
+    <td><strong>Databases</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="opencv" width="30" height="30"/>
+      </div>
+    </td>
+    <td>
+      <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="30" height="30"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/>
+      <div>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools and Utilities</strong></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="30" height="30"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="30" height="30"/>
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/>
+      </div>
+    </td>
+    <td></td>
+  </tr>
+</table>
   
 ## 🔥 Stats
   
@@ -99,3 +142,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
