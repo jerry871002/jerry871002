@@ -1,7 +1,5 @@
 ## Hi there 👋, I'm Jerry
 
-[![Profile View Badge](https://komarev.com/ghpvc/?username=jerry871002&style=for-the-badge&color=blue)]()
-
 ## 🧑‍💻 About Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jerry871002@gmail.com)
@@ -9,8 +7,8 @@
 [![Leetcode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/jerry871002/)
 [![Hackerrank Badge](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/jerry871002)
 
-- 🇹🇼 Software Developer from Taichung, Taiwan
-- 🇫🇮 MSc student in Security and Cloud Computing at Aalto University
+- 🇹🇼 Software Engineer from Taichung, Taiwan
+- 🇫🇮🇫🇷 MSc student in Security and Cloud Computing at Aalto University and EURECOM
 
 ## 🛠️ Languages and Tools
 
@@ -123,10 +121,12 @@
 </table>
   
 ## 🔥 Stats
-  
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jerry871002)](https://github.com/LordDashMe/github-contribution-stats/)
+
+[![Profile View Badge](https://komarev.com/ghpvc/?username=jerry871002&style=for-the-badge&color=blue)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerry871002&layout=compact&exclude_repo=CSE201-project,jerry871002.github.io,1214-ece-course,nfc-ticket-app)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jerry871002)](https://github.com/LordDashMe/github-contribution-stats/)
 
 <!--
 **jerry871002/jerry871002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
