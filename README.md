@@ -7,8 +7,8 @@
 [![Leetcode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/jerry871002/)
 [![Hackerrank Badge](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/jerry871002)
 
-- 🇹🇼 Software Engineer from Taichung, Taiwan
-- 🇫🇮🇫🇷 MSc student in Security and Cloud Computing at Aalto University and EURECOM
+- 🇹🇼🇫🇮 Software Developer from Taiwan currently living and working in Finland
+- 🇫🇮🇫🇷 MSc in Security and Cloud Computing from Aalto University and EURECOM
 
 ## 🛠️ Languages and Tools
 
